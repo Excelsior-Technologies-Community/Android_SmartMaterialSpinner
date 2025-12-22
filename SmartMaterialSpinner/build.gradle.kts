@@ -54,7 +54,7 @@ afterEvaluate {
                 groupId = "com.github.Excelsior-Technologies-Community"
 
                 // THIS CAN BE YOUR LIBRARY NAME
-                artifactId = "smartmaterialspinner"
+                artifactId = "SmartMaterialSpinner"
 
                 // This can be anything for now
                 version = "1.0.0"
